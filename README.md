@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science and Engineering student
-- 💻 Learning Java, C++ and Data Structures & Algorithms
+- 💻 Learning Java, Python, C++ and Data Structures & Algorithms
 - 🌐 Building web applications with modern frontend technologies
 - ⚙️ Exploring Python backend development and REST APIs
 - 🤖 Interested in AI, OCR, intelligent automation and cybersecurity
